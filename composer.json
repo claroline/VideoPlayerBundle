@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "claroline/core-bundle": ">=1.0,<3.0",
+        "claroline/core-bundle": ">=3.0,<4.0",
         "claroline/front-end-bundle": ">=1.0.14,<2.0"
     },
     "autoload": {
